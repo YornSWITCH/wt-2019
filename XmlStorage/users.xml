@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<users xmlns="http://www.2dlesha.org/users/"
+        xmlns:bk="http://www.2dlesha.org/books/">
+    <User>
+        <id>123</id>
+        <firstname>Hevis</firstname>
+        <lastname>Maslaev</lastname>
+        <dateofmembership>1999-09-09</dateofmembership>
+        <address>Dnepr</address>
+        <issues></issues>
+    </User>
+    <User>
+        <id>1213</id>
+        <firstname>Keny</firstname>
+        <lastname>Gornostaev</lastname>
+        <dateofmembership>2000-10-10</dateofmembership>
+        <address>Minsk</address>
+        <issues>
+            <bk:Magazine>
+                <bk:id>1</bk:id>
+                <bk:name>Drinking Journal</bk:name>
+                <bk:pagecount>15</bk:pagecount>
+                <bk:author>Simargl</bk:author>
+            </bk:Magazine>
+        </issues>
+    </User>
+</users>

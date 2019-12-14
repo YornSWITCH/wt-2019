@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<admins xmlns="http://www.w3.org/2001/XMLSchema">
+    <Admin>
+        <id>123</id>
+        <firstname>Erian</firstname>
+        <lastname>Berk</lastname>
+        <phonenumber>+3242535435</phonenumber>
+    </Admin>
+    <Admin>
+        <id>124</id>
+        <firstname>Yorn</firstname>
+        <lastname>Parsil</lastname>
+        <phonenumber>+324223535</phonenumber>
+    </Admin>
+</admins>

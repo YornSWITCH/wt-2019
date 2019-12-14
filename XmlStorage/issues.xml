@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<issues xmlns="http://www.w3.org/2001/XMLSchema">
+    <Magazine>
+        <id>1</id>
+        <name>Drinking Journal</name>
+        <pagecount>15</pagecount>
+        <author>Simargl</author>
+		<genre>magazine</genre>
+    </Magazine>
+    <Newspaper>
+        <id>2</id>
+        <name>Nigga's School</name>
+        <pagecount>10</pagecount>
+        <author>Slash-Y</author>
+		<genre>newspaper</genre>
+    </Newspaper>
+</issues>
